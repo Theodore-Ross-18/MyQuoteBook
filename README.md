@@ -1,4 +1,12 @@
 # MyQuoteBook
 A Quote Book Project using GIT
 
-To Download the Git_Output.mp4 simply click on the file and view raw
+View Full Video: Through the File - My Quote Book - GIT (FULL VIDEO LINK)
+
+Details:
+
+Original File Size: 650 MB (MKV - OBS)
+
+Resize File Size Using FFMPEG: 133 MB (MP4)
+
+Duration: 34: 55 Minutes
